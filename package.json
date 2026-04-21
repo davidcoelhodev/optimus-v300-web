@@ -1,0 +1,11 @@
+{
+  "name": "optimus-v300-web",
+  "version": "1.0.0",
+  "description": "Initial structure for the Optimus v300 web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "davidcoelhodev",
+  "license": "ISC"
+}
